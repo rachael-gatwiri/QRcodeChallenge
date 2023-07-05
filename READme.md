@@ -1,1 +1,1 @@
-* This is a Qr Code challenge by [Frontend Mentor](frontendmentor.io)
+* This is a Qr Code challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
